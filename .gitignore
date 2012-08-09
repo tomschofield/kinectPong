@@ -1,0 +1,5 @@
+# Mac OS X
+*.DS_Store
+*.xcuserstate
+/the_quiet_walk.xcodeproj/*
+the_quiet_walk.xcodeproj/project.xcworkspace/xcuserdata/tomschofield.xcuserdatad/UserInterfaceState.xcuserstate
